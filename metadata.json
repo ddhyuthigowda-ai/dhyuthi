@@ -1,0 +1,7 @@
+{
+  "name": "Your Desk Has Something To Say",
+  "description": "An AI-powered app that gives your desk a voice to roast your clutter and analyze your personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

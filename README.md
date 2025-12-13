@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1K9qEO_1q1ljpXicA8EvgSe
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+   Its a hackton based project conducted by "Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio"
